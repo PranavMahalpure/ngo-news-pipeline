@@ -1,0 +1,497 @@
+{
+  "timestamp": "2026-10-27T13:21:54Z",
+  "total_clusters_evaluated": 25,
+  "total_runtime_seconds": 0.71,
+  "avg_latency_per_cluster_ms": 27.63,
+  "estimated_api_cost_usd": 0.0,
+  "source_attribution": {
+    "total_claims_checked": 26,
+    "supported_claims": 26,
+    "attribution_accuracy_pct": 100.0,
+    "claim_details": [
+      {
+        "claim": "Multi-source confirmed event covered across 2 independent outlets.",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://thehindu.com/news/national/assam-cholera-drive-2026": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://bbc.com/news/world-asia-india-assam-health": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      },
+      {
+        "claim": "Multi-source confirmed event covered across 2 independent outlets.",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://reuters.com/world/middle-east/unicef-water-convoy-gaza": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://aljazeera.com/news/unicef-drinking-water-emergency": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      },
+      {
+        "claim": "Multi-source confirmed event covered across 2 independent outlets.",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://thehindu.com/sci-tech/energy-and-environment/kerala-mangrove-drive": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://indianexpress.com/article/cities/thiruvananthapuram/mangrove-initiative": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      },
+      {
+        "claim": "Multi-source confirmed event covered across 2 independent outlets.",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://reuters.com/world/asia-pacific/nepal-quake-emergency-aid": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://kathmandupost.com/national/earthquake-relief-red-cross": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      },
+      {
+        "claim": "Multi-source confirmed event covered across 2 independent outlets.",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://timesofindia.indiatimes.com/india/nutrition-drive-schools": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=1987654": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      },
+      {
+        "claim": "Multi-source confirmed event covered across 2 independent outlets.",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://france24.com/en/africa/chad-msf-hospital-maternal-care": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://msf.org/chad-maternal-health-hospital-opening": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      },
+      {
+        "claim": "Multi-source confirmed event covered across 2 independent outlets.",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://downtoearth.org.in/energy/odisha-tribal-solar-microgrids": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://thehindu.com/news/national/other-states/odisha-solar-hamlets": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      },
+      {
+        "claim": "Multi-source confirmed event covered across 2 independent outlets.",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=1991234": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://tribuneindia.com/news/nation/ndrf-coastal-volunteers": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      },
+      {
+        "claim": "Conflicting statistics on dead",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://bbc.com/news/world-asia-india-wayanad-disaster": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://thehindu.com/news/national/kerala/wayanad-floods-toll": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      },
+      {
+        "claim": "Conflicting dead statistics",
+        "overall_supported": true,
+        "url_breakdown": {
+          "https://bbc.com/news/world-asia-india-wayanad-disaster": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          },
+          "https://thehindu.com/news/national/kerala/wayanad-floods-toll": {
+            "is_supported": true,
+            "confidence": 0.95,
+            "method": "llm_judge",
+            "reasoning": "Explicit textual match between claim numbers/entities and source excerpt."
+          }
+        }
+      }
+    ]
+  },
+  "hallucination": {
+    "total_verified_digests_evaluated": 8,
+    "hallucinated_count": 0,
+    "hallucination_rate_pct": 0.0,
+    "details": [
+      {
+        "is_hallucinated": false,
+        "hallucination_score": 0.0,
+        "hallucinated_elements": {},
+        "method": "deterministic_grounding_verified"
+      },
+      {
+        "is_hallucinated": false,
+        "hallucination_score": 0.0,
+        "hallucinated_elements": {},
+        "method": "deterministic_grounding_verified"
+      },
+      {
+        "is_hallucinated": false,
+        "hallucination_score": 0.0,
+        "hallucinated_elements": {},
+        "method": "deterministic_grounding_verified"
+      },
+      {
+        "is_hallucinated": false,
+        "hallucination_score": 0.0,
+        "hallucinated_elements": {},
+        "method": "deterministic_grounding_verified"
+      },
+      {
+        "is_hallucinated": false,
+        "hallucination_score": 0.0,
+        "hallucinated_elements": {},
+        "method": "deterministic_grounding_verified"
+      },
+      {
+        "is_hallucinated": false,
+        "hallucination_score": 0.0,
+        "hallucinated_elements": {},
+        "method": "deterministic_grounding_verified"
+      },
+      {
+        "is_hallucinated": false,
+        "hallucination_score": 0.0,
+        "hallucinated_elements": {},
+        "method": "deterministic_grounding_verified"
+      },
+      {
+        "is_hallucinated": false,
+        "hallucination_score": 0.0,
+        "hallucinated_elements": {},
+        "method": "deterministic_grounding_verified"
+      }
+    ]
+  },
+  "planted_traps": {
+    "overall_trap_recall_pct": 100.0,
+    "overall_trap_precision_pct": 100.0,
+    "overall_trap_f1_score": 100.0,
+    "category_metrics": {
+      "conflicting_numbers": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "total": 5
+      },
+      "single_source_rumor": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "total": 4
+      },
+      "satire_site": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "total": 4
+      },
+      "outdated_article": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "total": 4
+      },
+      "none": {
+        "tp": 8,
+        "fp": 0,
+        "fn": 0,
+        "total": 8
+      }
+    },
+    "sample_breakdown": [
+      {
+        "cluster_id": "cluster-v01",
+        "topic": "WHO and Ministry Deploy 100,000 Oral Cholera Vaccines in Flo",
+        "planted_trap": "none",
+        "expected_status": "Verified",
+        "actual_status": "Verified",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-v02",
+        "topic": "UNICEF Delivers Clean Drinking Water to 50,000 Displaced Chi",
+        "planted_trap": "none",
+        "expected_status": "Verified",
+        "actual_status": "Verified",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-v03",
+        "topic": "Kerala Forest Department and Local NGOs Plant 250,000 Mangro",
+        "planted_trap": "none",
+        "expected_status": "Verified",
+        "actual_status": "Verified",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-v04",
+        "topic": "Red Cross Mobilizes 30 Mobile Clinics in Nepal Following 5.8",
+        "planted_trap": "none",
+        "expected_status": "Verified",
+        "actual_status": "Verified",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-v05",
+        "topic": "Mid-Day Meal Expansion: 1.2 Million Rural Schoolgirls Enroll",
+        "planted_trap": "none",
+        "expected_status": "Verified",
+        "actual_status": "Verified",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-v06",
+        "topic": "Doctors Without Borders Opens 120-Bed Maternal Care Hospital",
+        "planted_trap": "none",
+        "expected_status": "Verified",
+        "actual_status": "Verified",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-v07",
+        "topic": "Solar Microgrid Electrification Powers 45 Remote Tribal Haml",
+        "planted_trap": "none",
+        "expected_status": "Verified",
+        "actual_status": "Verified",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-v08",
+        "topic": "Disaster Preparedness: NDRF Trains 15,000 Community First Re",
+        "planted_trap": "none",
+        "expected_status": "Verified",
+        "actual_status": "Verified",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-num01",
+        "topic": "Severe Flooding in Wayanad: Conflicting Casualty Figures",
+        "planted_trap": "conflicting_numbers",
+        "expected_status": "Conflicting",
+        "actual_status": "Conflicting",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-num02",
+        "topic": "Cyclone Relief Fund Allocation: Conflicting Financial Aid To",
+        "planted_trap": "conflicting_numbers",
+        "expected_status": "Conflicting",
+        "actual_status": "Conflicting",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-num03",
+        "topic": "Drought Migration in Rajasthan: Conflicting Displacement Est",
+        "planted_trap": "conflicting_numbers",
+        "expected_status": "Conflicting",
+        "actual_status": "Conflicting",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-num04",
+        "topic": "Urban Homeless Shelter Drive in Delhi: Conflicting Capacity ",
+        "planted_trap": "conflicting_numbers",
+        "expected_status": "Conflicting",
+        "actual_status": "Conflicting",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-num05",
+        "topic": "Emergency Food Grain Distribution: Conflicting Tonnage Figur",
+        "planted_trap": "conflicting_numbers",
+        "expected_status": "Conflicting",
+        "actual_status": "Conflicting",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-single01",
+        "topic": "Unverified Viral Claim: Total Drinking Water Contamination A",
+        "planted_trap": "single_source_rumor",
+        "expected_status": "Single-source",
+        "actual_status": "Single-source",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-single02",
+        "topic": "Anonymous Blog Claim: Complete Cessation of All Internationa",
+        "planted_trap": "single_source_rumor",
+        "expected_status": "Single-source",
+        "actual_status": "Single-source",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-single03",
+        "topic": "Forum Post: Secret Closure of 40 Rural Primary Health Centre",
+        "planted_trap": "single_source_rumor",
+        "expected_status": "Single-source",
+        "actual_status": "Single-source",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-single04",
+        "topic": "Social Media Excerpt: Miracle Herbal Cure Eradicates Dengue ",
+        "planted_trap": "single_source_rumor",
+        "expected_status": "Single-source",
+        "actual_status": "Single-source",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-satire01",
+        "topic": "Government Imposes 200% Breathing Surcharge in Flood Zones t",
+        "planted_trap": "satire_site",
+        "expected_status": "Rejected: Satire",
+        "actual_status": "Rejected: Satire",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-satire02",
+        "topic": "UN Replaces Food Aid Shipments with Weekly Motivational Spot",
+        "planted_trap": "satire_site",
+        "expected_status": "Rejected: Satire",
+        "actual_status": "Rejected: Satire",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-satire03",
+        "topic": "Hospital Announces Scalpel Shortage Will Be Addressed Using ",
+        "planted_trap": "satire_site",
+        "expected_status": "Rejected: Satire",
+        "actual_status": "Rejected: Satire",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-satire04",
+        "topic": "Aid Agency Deploys Carrier Pigeons to Counter High 5G Data T",
+        "planted_trap": "satire_site",
+        "expected_status": "Rejected: Satire",
+        "actual_status": "Rejected: Satire",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-outdated01",
+        "topic": "Historic Super Cyclone Relief Fund Announced in Coastal Belt",
+        "planted_trap": "outdated_article",
+        "expected_status": "Rejected: Outdated",
+        "actual_status": "Rejected: Outdated",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-outdated02",
+        "topic": "Initial COVID-19 Lockdown Rations Announced in March 2020",
+        "planted_trap": "outdated_article",
+        "expected_status": "Rejected: Outdated",
+        "actual_status": "Rejected: Outdated",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-outdated03",
+        "topic": "Kerala Flood Rescue Operations of August 2018",
+        "planted_trap": "outdated_article",
+        "expected_status": "Rejected: Outdated",
+        "actual_status": "Rejected: Outdated",
+        "passed": true
+      },
+      {
+        "cluster_id": "cluster-trap-outdated04",
+        "topic": "Uttarakhand Chamoli Flash Flood Flashback from February 2021",
+        "planted_trap": "outdated_article",
+        "expected_status": "Rejected: Outdated",
+        "actual_status": "Rejected: Outdated",
+        "passed": true
+      }
+    ]
+  },
+  "social_post_quality": {
+    "total_drafts_generated": 24,
+    "x_drafts_count": 8,
+    "x_length_compliance_pct": 100.0,
+    "x_max_length_observed": 250,
+    "source_link_compliance_pct": 100.0,
+    "unverified_leaks_prevented": true,
+    "safety_gating_status": "PASSED"
+  }
+}

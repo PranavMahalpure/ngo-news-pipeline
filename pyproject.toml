@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ngo-news-pipeline"
+version = "1.0.0"
+description = "Deterministic News Verification & Social Digest Pipeline for NGOs"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "feedparser>=6.0.10",
+    "trafilatura>=2.0.0",
+    "pydantic>=2.0.0",
+    "scikit-learn>=1.3.0",
+    "requests>=2.31.0",
+    "dateparser>=1.2.0",
+    "rich>=13.0.0",
+    "pytest>=8.0.0"
+]
+
+[project.scripts]
+ngo-pipeline = "ngo_pipeline.cli:main"

@@ -136,7 +136,7 @@ The test suite includes a frozen dataset of 25 news snapshot clusters spanning d
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/ngo-news-pipeline.git
+git clone https://github.com/PranavMahalpure/ngo-news-pipeline.git
 cd ngo-news-pipeline
 
 # Create virtual environment and install dependencies
